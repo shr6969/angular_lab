@@ -1,0 +1,22 @@
+.home-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #2c3e50;
+  }
+  
+  h2 {
+    color: #2980b9;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
